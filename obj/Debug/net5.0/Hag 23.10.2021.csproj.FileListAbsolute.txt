@@ -1,0 +1,16 @@
+D:\Max\VisualStudio\Hag 23.10.2021\bin\Debug\net5.0\Hag 23.10.2021.exe
+D:\Max\VisualStudio\Hag 23.10.2021\bin\Debug\net5.0\Hag 23.10.2021.deps.json
+D:\Max\VisualStudio\Hag 23.10.2021\bin\Debug\net5.0\Hag 23.10.2021.runtimeconfig.json
+D:\Max\VisualStudio\Hag 23.10.2021\bin\Debug\net5.0\Hag 23.10.2021.runtimeconfig.dev.json
+D:\Max\VisualStudio\Hag 23.10.2021\bin\Debug\net5.0\Hag 23.10.2021.dll
+D:\Max\VisualStudio\Hag 23.10.2021\bin\Debug\net5.0\ref\Hag 23.10.2021.dll
+D:\Max\VisualStudio\Hag 23.10.2021\bin\Debug\net5.0\Hag 23.10.2021.pdb
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\Hag 23.10.2021.csproj.AssemblyReference.cache
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\Hag 23.10.2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\Hag 23.10.2021.AssemblyInfoInputs.cache
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\Hag 23.10.2021.AssemblyInfo.cs
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\Hag 23.10.2021.csproj.CoreCompileInputs.cache
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\Hag 23.10.2021.dll
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\ref\Hag 23.10.2021.dll
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\Hag 23.10.2021.pdb
+D:\Max\VisualStudio\Hag 23.10.2021\obj\Debug\net5.0\Hag 23.10.2021.genruntimeconfig.cache
